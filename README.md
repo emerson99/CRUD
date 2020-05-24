@@ -1,2 +1,2 @@
 # CRUD
-CRUD EM PHP
+Projeto criado da forma mais simples em php e com um pouco de bootstrap. Onde o arquivo ,(conexao.php) realiza a conexão com o mysql,edit_usuario contem o formulário de dados que vão ser alterados e mandados via post para o (proc_edit_usuario.php) onde sera tradada as informações e alteradas no banco de dados ,(cad_usuario.php) contem um formulário de cadastro que também envia os dados via post para (proc_cad_usuario.php) que inseri no banco de dados,(index.php) realiza a listagem de dados do banco,(pesquisar.php) você busca o nome do cliente e o (proc_apagar_usuario.php) apaga o cliente da banco de dados. A pasta inc contem a penas o (header.php) que é o menu do sistema.
